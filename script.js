@@ -35,7 +35,7 @@ function updateFamilyPhoto() {
     const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 86400000); // Get day of the year (0-364)
 
     // Generate the filename based on the day of the year
-    const photoFilename = `photos/photo${dayOfYear + 1}.jpg`; // Adds 1 because dayOfYear is 0-indexed
+    const photoFilename = `photo${dayOfYear + 1}.jpg`; // Adds 1 because dayOfYear is 0-indexed
 
     // Update the src attribute of the image element
     document.getElementById("daily-photo").src = photoFilename;
