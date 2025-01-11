@@ -1,4 +1,5 @@
 const quotes = [
+    "Všechno nejlepší k narozeninám maminko!!!!",
     "Každý den je novou šancí na úspěch.",
     "Jsem tvůrkyní svého vlastního štěstí.",
     "Každý krok, který udělám, mě přibližuje k mým cílům.",
@@ -75,7 +76,6 @@ const quotes = [
     "Důvěřuji procesu a vím, že vše se děje v pravý čas.",
     "Můj život je naplněný krásou, láskou a úspěchem.",
     "Jsem připravená přijímat všechny pozitivní změny.",
-    "Všechno nejlepší k narozeninám maminko!!!!",
     "Můj život je plný krásy a štěstí.",
     "Dnes je den, kdy přijímám nové možnosti a příležitosti.",
     "Jsem silná, odolná a připravená na cokoliv.",
